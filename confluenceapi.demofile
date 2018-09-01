@@ -1,0 +1,6 @@
+#create a file named "$whoami".local with the following format
+
+A_USER=
+A_PASSWD=
+INSTANCE_HOST=
+SPACE_NAME=
